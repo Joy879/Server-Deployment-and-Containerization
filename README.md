@@ -87,3 +87,4 @@ Completing the project involved several steps:
 
 ## Author
 Joy Wanjiru
+I am a data science enthusiast and a software engineering graduate from ALX and I love working with Python especially because of it's vast pool of libraries for scientific computing
